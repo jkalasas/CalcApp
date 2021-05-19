@@ -4,10 +4,10 @@ This my solution to the challenge ![Calculator app](https://www.frontendmentor.i
 ## Overview
 ### The challenge
 The users should be able to:
-* See the size of the elements adjust based on their device's screen size
-* Perform mathematical operations like addition, subtraction, multiplication, and division
-* Adjust the color theme based on their preference
-* **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
+- [x] See the size of the elements adjust based on their device's screen size
+- [x] Perform mathematical operations like addition, subtraction, multiplication, and division
+- [x] Adjust the color theme based on their preference
+- [ ] **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
 
 ### Screenshots
 #### Theme 1
@@ -32,6 +32,9 @@ This is the first challenge that I took in frontend mentor, it was both pretty f
 #### Tools used
 * Vim (_Text Editor_)
 * Firefox webdev tools
+
+#### Todo
+* Add the saving of themes
 
 #### Author
 * Github - ![jkalasas](https://github.com/jkalasas)
