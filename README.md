@@ -11,11 +11,11 @@ The users should be able to:
 
 ### Screenshots
 ####Theme 1
-![theme 1](https://github.com/jkalasas/CalcApp/images/screenshot_1.png)
+![theme 1](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_1.png)
 ####Theme 2
-![theme 2](https://github.com/jkalasas/CalcApp/images/screenshot_2.png)
+![theme 2](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_2.png)
 ####Theme 3
-![theme 3](https://github.com/jkalasas/CalcApp/images/screenshot_3.png)
+![theme 3](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_3.png)
 
 ### Links
 * Solution: ![repo](https://github.com/jkalasas/CalcApp)
