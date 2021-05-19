@@ -1,5 +1,5 @@
 # Frontend Mentor | Calculator app
-This my solution to the challenge ![Calculator app](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) on ![Frontend Mentor](https://www.frontendmentor.io)
+This my solution to the challenge [Calculator app](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) on [Frontend Mentor](https://www.frontendmentor.io)
 
 ## Overview
 ### The challenge
@@ -18,8 +18,8 @@ The users should be able to:
 ![theme 3](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_3.png)
 
 ### Links
-* Solution: ![repo](https://github.com/jkalasas/CalcApp)
-* Live Site: ![live site](https://priceless-bell-13e735.netlify.app/)
+* Solution: [repo](https://github.com/jkalasas/CalcApp)
+* Live Site: [live site](https://priceless-bell-13e735.netlify.app/)
 
 ### Remarks
 This is the first challenge that I took in frontend mentor, it was both pretty fun and challenging. 
@@ -37,6 +37,6 @@ This is the first challenge that I took in frontend mentor, it was both pretty f
 * Add the saving of themes
 
 #### Author
-* Github - ![jkalasas](https://github.com/jkalasas)
-* Frontend Mentor - ![@jkalasas](https://github.com/jkalasas)
-* Twitter - ![@sudo_suuu](https://www.twitter.com/sudo_suuu)
+* Github - [jkalasas](https://github.com/jkalasas)
+* Frontend Mentor - [@jkalasas](https://github.com/jkalasas)
+* Twitter - [@sudo_suuu](https://www.twitter.com/sudo_suuu)
