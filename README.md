@@ -10,11 +10,11 @@ The users should be able to:
 * **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
 
 ### Screenshots
-####Theme 1
+#### Theme 1
 ![theme 1](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_1.png)
-####Theme 2
+#### Theme 2
 ![theme 2](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_2.png)
-####Theme 3
+#### Theme 3
 ![theme 3](https://github.com/jkalasas/CalcApp/blob/main/images/screenshot_3.png)
 
 ### Links
