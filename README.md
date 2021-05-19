@@ -19,7 +19,7 @@ The users should be able to:
 
 ### Links
 * Solution: ![repo](https://github.com/jkalasas/CalcApp)
-* Live Site: ![repo](https://jkalasas.github.io/CalcApp)
+* Live Site: ![repo](https://priceless-bell-13e735.netlify.app/)
 
 ### Remarks
 This is the first challenge that I took in frontend mentor, it was both pretty fun and challenging. 
